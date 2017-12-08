@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'ClassicRoundMedium';
+    src: url('classicround-medium-webfont.eot');
+    src: url('classicround-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('classicround-medium-webfont.woff') format('woff'),
+         url('classicround-medium-webfont.ttf') format('truetype'),
+         url('classicround-medium-webfont.svg#classic_roundmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LucidaGrande';
+    src: url('lucida_grande-webfont.eot');
+    src: url('lucida_grande-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lucida_grande-webfont.woff') format('woff'),
+         url('lucida_grande-webfont.ttf') format('truetype'),
+         url('lucida_grande-webfont.svg#classic_roundmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LucidaGrandeBold';
+    src: url('lucida_grande_bold-webfont.eot');
+    src: url('lucida_grande_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lucida_grande_bold-webfont.woff') format('woff'),
+         url('lucida_grande_bold-webfont.ttf') format('truetype'),
+         url('lucida_grande_bold-webfont.svg#classic_roundmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
